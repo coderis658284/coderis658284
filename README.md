@@ -10,7 +10,7 @@
 ## Free Code Camp
 
 - [ ] [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
-  - Learn HTML by Building a Cat Photo App (15/69)
+  - Learn HTML by Building a Cat Photo App (43/69)
 <!---
 - 💞️ I’m looking to collaborate on 
 coderis658284/coderis658284 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
